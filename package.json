@@ -1,0 +1,11 @@
+{
+  "name": "recipes",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Веб-справочник рецептов: данные из receps.csv, деплой на GitHub Pages",
+  "scripts": {
+    "build:data": "node scripts/build-data.mjs",
+    "validate": "node scripts/validate-data.mjs"
+  }
+}

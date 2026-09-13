@@ -1,0 +1,1501 @@
+{
+  "total": 290,
+  "categories": [
+    {
+      "name": "Супы",
+      "count": 34
+    },
+    {
+      "name": "Салаты и закуски",
+      "count": 34
+    },
+    {
+      "name": "Горячие блюда — мясо",
+      "count": 54
+    },
+    {
+      "name": "Горячие блюда — рыба",
+      "count": 28
+    },
+    {
+      "name": "Гриль и мангал",
+      "count": 17
+    },
+    {
+      "name": "Пироги и выпечка",
+      "count": 35
+    },
+    {
+      "name": "Завтраки",
+      "count": 24
+    },
+    {
+      "name": "Гарниры и овощи",
+      "count": 27
+    },
+    {
+      "name": "Стритфуд",
+      "count": 9
+    },
+    {
+      "name": "Десерты",
+      "count": 19
+    },
+    {
+      "name": "Лайфхаки",
+      "count": 9
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Борщ",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/borsh"
+    },
+    {
+      "name": "Быстрый том-ям",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/bystryi-tom-yam"
+    },
+    {
+      "name": "Гороховый суп",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/gorohovyi-syp"
+    },
+    {
+      "name": "Грибная похлёбка",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/gribnaya-pohlebka"
+    },
+    {
+      "name": "Грибной суп по-ивлевски",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/gribnoi-sup-po-ivlevski"
+    },
+    {
+      "name": "Гуляш из говядины",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/gylyash-iz-govyadiny"
+    },
+    {
+      "name": "Крем-суп из картофеля",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/crem-syp-iz-kartofelya"
+    },
+    {
+      "name": "Крем-суп из овощей",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/crem-syp-iz-ovoshey"
+    },
+    {
+      "name": "Куриный суп с лапшой",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/kyrinyi-syp-s-lapshoi"
+    },
+    {
+      "name": "Лапша с курицей в паназиатском стиле",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/lapsha-s-kyritsey-v-panaziatskom-stile"
+    },
+    {
+      "name": "Окрошка",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/okroshka"
+    },
+    {
+      "name": "Перечно-томатный суп",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/perechno-tomatnyi-soup"
+    },
+    {
+      "name": "Похмельный том-ям",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/pohmelnyi-tom-yam"
+    },
+    {
+      "name": "Рассольник",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/rassolnik"
+    },
+    {
+      "name": "Свекольник по-ивлевски",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/svekolnik-po-ivlevski"
+    },
+    {
+      "name": "Сливочный суп с лисичками",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/slivochnyi-syp-s-lisichkami"
+    },
+    {
+      "name": "Солянка мясная",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/solyanka-myasnaya"
+    },
+    {
+      "name": "Солянка из капусты",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/solyanka-iz-kapysty"
+    },
+    {
+      "name": "Суп Вишисуаз",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/sup-vishisyaz"
+    },
+    {
+      "name": "Суп из лукового сырка",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/syp-iz-lykovogo-syrka"
+    },
+    {
+      "name": "Суп из твёрдого авокадо",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/syp-iz-tverdogo-avocado"
+    },
+    {
+      "name": "Суп-биск из раков с креветками",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/syp-bisk-iz-rakov-s-krevetkami"
+    },
+    {
+      "name": "Суп-гуляш из говядины",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/sup-gylyash-iz-govyadiny"
+    },
+    {
+      "name": "Суп-капучино из шампиньонов",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/syp-kapuchino-iz-shampinionov"
+    },
+    {
+      "name": "Том-ям",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/tom-yam"
+    },
+    {
+      "name": "Томатно-огуречный гаспачо",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/tomatno-ogerechnyi-gospacho"
+    },
+    {
+      "name": "Тыквенный крем-суп",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/tykvennyi-krem-syp"
+    },
+    {
+      "name": "Тыквенный суп с креветками",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/tykvennyi-sup-s-krevetkami"
+    },
+    {
+      "name": "Уха",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/yha"
+    },
+    {
+      "name": "Французский луковый суп",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/francyzkiy-lukovyi-sup"
+    },
+    {
+      "name": "Харчо",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/harcho"
+    },
+    {
+      "name": "Чечевичный суп",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/chechevichnyi-sup"
+    },
+    {
+      "name": "Щи с грибами",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/shi-s-gribami"
+    },
+    {
+      "name": "Кукурузно-тыквенный суп",
+      "category": "Супы",
+      "url": "https://ivlevchefbooks.ru/kykyryzno-tykvennyi-sup"
+    },
+    {
+      "name": "Азы по-татарски",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/azy-po-tatarski"
+    },
+    {
+      "name": "Цезарь с креветками",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/cesar-s-crevetkami"
+    },
+    {
+      "name": "Греческий салат",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/grecheskyi-salat"
+    },
+    {
+      "name": "Изысканный французский салат",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/izyskannyi-franzyskiy-salat"
+    },
+    {
+      "name": "Кабачковая икра",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/kabachkovaya-ikra"
+    },
+    {
+      "name": "Карпаччо",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/karpacho"
+    },
+    {
+      "name": "Карпаччо из лосося",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/karpacho-iz-lososya"
+    },
+    {
+      "name": "Карпаччо из сибаса",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/karpacho-iz-sibassa"
+    },
+    {
+      "name": "Карпаччо из свёклы",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/karpacho-iz-svekly"
+    },
+    {
+      "name": "Коул слоу",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/koyl-slow"
+    },
+    {
+      "name": "Фирменный коул слоу",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/firmennyi-coul-slow"
+    },
+    {
+      "name": "Латук с копчёным лососем",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/latyk-s-kopchennym-lososem"
+    },
+    {
+      "name": "Лечо по-ивлевски",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/lecho-po-ivlevski"
+    },
+    {
+      "name": "Маринованные шампиньоны",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/marinovannye-shampinony"
+    },
+    {
+      "name": "Мимоза",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/mimoza"
+    },
+    {
+      "name": "Оливье (русский салат)",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/olivie-russkiy-salat"
+    },
+    {
+      "name": "Оливье с копчёным лососем",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/olivie-s-kopchenym-lososem"
+    },
+    {
+      "name": "Паназиатский салат из курицы",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/panasiatskiy-salat-iz-kyritcy"
+    },
+    {
+      "name": "Паштет из копчёной скумбрии",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/pashtet-iz-kopchenoy-skymbrii"
+    },
+    {
+      "name": "Паштет из куриной печени",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/pashtet-iz-kyrinoi-pecheni"
+    },
+    {
+      "name": "Простой салат",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/prostoi-salat"
+    },
+    {
+      "name": "Раки с соусом",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/raki-s-sousom-ryi"
+    },
+    {
+      "name": "Салат из битых огурцов с кальмаром",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/salat-iz-bityh-ogyrtsov-s-kalmarom"
+    },
+    {
+      "name": "Салат из булгура",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/salat-iz-bulgyra"
+    },
+    {
+      "name": "Салат из булгура, перца, кабачков",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/salat-iz-bulgura-perca-kabachkov"
+    },
+    {
+      "name": "Салат из курицы-гриль",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/salat-iz-kuritcy-grill"
+    },
+    {
+      "name": "Салат из свежих овощей",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/salat-iz-svejyh-ovoshey"
+    },
+    {
+      "name": "Салат из яблок",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/salat-iz-yablok"
+    },
+    {
+      "name": "Салат из яблок и сыра",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/salat-iz-yablok-i-syra"
+    },
+    {
+      "name": "Салат с арбузом",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/salat-s-arbyzom"
+    },
+    {
+      "name": "Салат с баклажанами и томатами",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/salat-s-baklajanami-i-tomatami"
+    },
+    {
+      "name": "Салат с сёмгой, картофелем, руколой",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/salat-s-semgoi-kartofelem-rukoloi"
+    },
+    {
+      "name": "Сельдь под шубой по-ивлевски",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/seld-pod-shuboi-ivlev"
+    },
+    {
+      "name": "Сельдь под шубой (НС)",
+      "category": "Салаты и закуски",
+      "url": "https://ivlevchefbooks.ru/seld-pod-shyboi-ns"
+    },
+    {
+      "name": "Бефстроганов",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/befstroganov"
+    },
+    {
+      "name": "Бифштекс с грибным рагу",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/beefshteks-s-gribnym-ragy"
+    },
+    {
+      "name": "Буженина",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/byjenina"
+    },
+    {
+      "name": "Буженина с томатным соусом",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/bygenina-s-tomatnym-soysom"
+    },
+    {
+      "name": "Вителло тоннато",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/vitello-tonnato"
+    },
+    {
+      "name": "Голубцы",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/golybtsi"
+    },
+    {
+      "name": "Фирменные голубцы",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/firmennye-golubtsi"
+    },
+    {
+      "name": "Гречка в казане",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/grechka-v-kazane"
+    },
+    {
+      "name": "Гречка по-купечески",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/grechka-po-kupecheski"
+    },
+    {
+      "name": "Дачное рагу",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/dachnoe-ragy"
+    },
+    {
+      "name": "Домашние колбаски",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/domashnie-kolbaski"
+    },
+    {
+      "name": "Жаркое из свинины",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/jarkoe-iz-svininy"
+    },
+    {
+      "name": "Запечённая курица",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/zapechennaya-kyritca"
+    },
+    {
+      "name": "Запечённая свиная шея",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/zapechennya-svinaya-sheya"
+    },
+    {
+      "name": "Запечённое мясо с сыром",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/zapechennoe-myaso-s-syrom"
+    },
+    {
+      "name": "Индейка в рукаве",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/indeika-v-rykave"
+    },
+    {
+      "name": "Кордон блю",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/kordon-blue"
+    },
+    {
+      "name": "Куриные зразы",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/kyrinye-zrazy"
+    },
+    {
+      "name": "Куриные колбаски с сыром",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/kyrinye-kolbaski-s-syrom"
+    },
+    {
+      "name": "Куриные котлеты",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/kyrinye-kotlety"
+    },
+    {
+      "name": "Куриные ножки",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/kyrinye-nozhki"
+    },
+    {
+      "name": "Курица в соусе карри",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/kyritca-v-soyse-karri"
+    },
+    {
+      "name": "Ленивые рёбра",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/lenivye-rebra"
+    },
+    {
+      "name": "Люля из мяса с сыром",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/lulya-iz-myasa-s-syrom"
+    },
+    {
+      "name": "Люля с двумя видами сулугуни",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/lulya-s-dvymya-vidami-suluguni"
+    },
+    {
+      "name": "Макароны по-флотски",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/makarony-po-flotski"
+    },
+    {
+      "name": "Мясной рулет с грибами",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/myasnoi-rulet-s-gribami"
+    },
+    {
+      "name": "Мясной хлеб",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/meat-bread"
+    },
+    {
+      "name": "Мясо по-кремлёвски",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/myaso-po-kremlevski"
+    },
+    {
+      "name": "Мясо по-французски",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/myaso-po-frantsyzki"
+    },
+    {
+      "name": "Паста с курицей",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/pasta-s-kyritcey"
+    },
+    {
+      "name": "Паста карбонара",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/pasta-karbonara"
+    },
+    {
+      "name": "Перепёлка с копчёностями",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/perepelka-s-kopchenosyami"
+    },
+    {
+      "name": "Перепёлка табака",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/perepelka-tabaka"
+    },
+    {
+      "name": "Печень",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/pechen"
+    },
+    {
+      "name": "Плов",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/plov"
+    },
+    {
+      "name": "Рагу из курицы",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/ragy-iz-kyritcy"
+    },
+    {
+      "name": "Рёбрышки с перечным соусом",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/rebryshki-s-perechnym-soysom"
+    },
+    {
+      "name": "Свиная вырезка в беконе",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/svinaya-vyrezka-v-bekone"
+    },
+    {
+      "name": "Свиная вырезка с рисом, овощами, орехами",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/svinaya-vyrezka-s-risom-ovoshami-orehami"
+    },
+    {
+      "name": "Сковлянка нью-стайл",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/skoblyanka-new-style"
+    },
+    {
+      "name": "Сочные говяжьи рёбра",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/sochnye-govyajie-rebra"
+    },
+    {
+      "name": "Стейки",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/steiki"
+    },
+    {
+      "name": "Тефтели в томатном соусе",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/tefteli-v-tomatnom-soyse"
+    },
+    {
+      "name": "Томлёный кролик",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/tomlennyi-krolik"
+    },
+    {
+      "name": "Утиная грудка с яблоками",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/ytinaya-grydka-s-yablokami"
+    },
+    {
+      "name": "Утка запечённая",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/ytka-zapechennaya"
+    },
+    {
+      "name": "Фаршированный перец",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/farshrovannyi-perec"
+    },
+    {
+      "name": "Чахохбили из индейки",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/chahohbili-iz-indeiki"
+    },
+    {
+      "name": "Чебуреки",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/chebyreki"
+    },
+    {
+      "name": "Чеф-бургер",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/chef-burger"
+    },
+    {
+      "name": "Хачапури из индейки",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/hachapuri-iz-indeiky"
+    },
+    {
+      "name": "Шницель",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/shnitsel"
+    },
+    {
+      "name": "Шнитцель",
+      "category": "Горячие блюда — мясо",
+      "url": "https://ivlevchefbooks.ru/shnitcel"
+    },
+    {
+      "name": "Каннелони с креветками",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/kanneloni-s-krevetkami"
+    },
+    {
+      "name": "Копчёная форель",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/kopchenaya-forel"
+    },
+    {
+      "name": "Форель подкопчённая",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/forel-podkopchennaya"
+    },
+    {
+      "name": "Копчёный лосось в нори",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/kopchenyi-losos-v-nori"
+    },
+    {
+      "name": "Котлеты из трески и картофеля",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/kotlety-iz-treski-i-kartofelya"
+    },
+    {
+      "name": "Креветки в духовке",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/krevetki-v-dyhovke"
+    },
+    {
+      "name": "Креветки со спаржей в чесночном масле",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/krevetki-so-sparjey-v-chesnochnom-masle"
+    },
+    {
+      "name": "Крокеты с рисом и крабом",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/krokety-s-risom-i-krabom"
+    },
+    {
+      "name": "Лосось со стучини и песто",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/losos-s-ctykini-i-pesto"
+    },
+    {
+      "name": "Морские гребешки",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/morskie-grebeshki"
+    },
+    {
+      "name": "Мурманская форель",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/myrmanskaya-forel"
+    },
+    {
+      "name": "Паста арабиата с креветками",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/pasta-arabiata-s-krevetkami"
+    },
+    {
+      "name": "Пирог с рыбой",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/pirog-s-ryboi"
+    },
+    {
+      "name": "Рагу из окуня",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/ragu-iz-okynya"
+    },
+    {
+      "name": "Рыба под маринадом",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/ryba-pod-marinadom"
+    },
+    {
+      "name": "Сибас с песто",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/sibas-s-pesto"
+    },
+    {
+      "name": "Сочные мидии",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/sochnye-midii"
+    },
+    {
+      "name": "Сэндвич с тунцом",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/sandwich-s-tuncom"
+    },
+    {
+      "name": "Торт из тунца и авокадо",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/tort-iz-tunca-i-avacado"
+    },
+    {
+      "name": "Треска с икрой баклажанов",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/treska-s-ikroi-baklajanov"
+    },
+    {
+      "name": "Треска с рисом и карри",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/treska-s-risom-i-karri"
+    },
+    {
+      "name": "Треска с томатами, вонголе, маслинами",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/treska-s-tomatami-vongole-maslinami"
+    },
+    {
+      "name": "Тунец с овощами и пашот",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/tynec-s-ovoshami-i-pashot"
+    },
+    {
+      "name": "Фиш-н-чипс",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/fish-n-chips"
+    },
+    {
+      "name": "Хрустящие креветки",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/hrystashie-krevetki"
+    },
+    {
+      "name": "Хрустящий пирог из сёмги",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/hrystashiy-pirog-iz-semgi"
+    },
+    {
+      "name": "Жаркое из морепродуктов",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/zharkoe-iz-moreprodyktov"
+    },
+    {
+      "name": "Шаурма с креветками и кальмаром",
+      "category": "Горячие блюда — рыба",
+      "url": "https://ivlevchefbooks.ru/shaurma-krevetki-kalmar"
+    },
+    {
+      "name": "Ассорти мини",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/assorti-mini"
+    },
+    {
+      "name": "Баранина на гриле",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/baranina-na-grile"
+    },
+    {
+      "name": "Жареный ананас",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/zharennyi-ananas"
+    },
+    {
+      "name": "Корейка на гриле",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/koreyka-na-grile"
+    },
+    {
+      "name": "Крылышки паназия",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/krylyshki-panasia"
+    },
+    {
+      "name": "Мини-шашлыки (морепродукты)",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/mini-shashlyki-more"
+    },
+    {
+      "name": "Мясо на гриле — ростбиф",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/myaso-na-grile-rostbif"
+    },
+    {
+      "name": "Свиная корейка на кости",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/svinaya-koreyka-na-kosti"
+    },
+    {
+      "name": "Шашлык из индейки",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/shashlyk-iz-indeyki"
+    },
+    {
+      "name": "Шашлык из картофеля",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/shashlyk-iz-kartofelya"
+    },
+    {
+      "name": "Шашлык из креветок, кальмара, лосося",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/shashlyk-iz-krevetok-kalmara-lososya"
+    },
+    {
+      "name": "Шашлык из купатов",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/shashlyk-iz-kupatov"
+    },
+    {
+      "name": "Шашлык из овощей",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/shashlyk-iz-ovoshey"
+    },
+    {
+      "name": "Шашлык по-деревенски",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/shashlyk-po-derevenski"
+    },
+    {
+      "name": "Шашлык свиной",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/shashlyk-svinoi"
+    },
+    {
+      "name": "Шашлычки из креветок",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/shashlychki-iz-krevetok"
+    },
+    {
+      "name": "Шашлычки из сёмги",
+      "category": "Гриль и мангал",
+      "url": "https://ivlevchefbooks.ru/shashlychki-iz-semgi"
+    },
+    {
+      "name": "Блинный торт",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/blinnyi-tort"
+    },
+    {
+      "name": "Блинный торт с картофелем и грибами",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/blinnyi-tort-s-kartofelem-gribami"
+    },
+    {
+      "name": "Блины на масленицу",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/bliny-na-maslenitsy"
+    },
+    {
+      "name": "Блины с тунцом",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/bliny-s-tyncom"
+    },
+    {
+      "name": "Грибной штрудель",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/gribnoy-shtrudel"
+    },
+    {
+      "name": "Домашний милфей",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/domashniy-milfey"
+    },
+    {
+      "name": "Ленивый милфей",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/lenivyi-milfey"
+    },
+    {
+      "name": "Запеканка с клубникой",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/zapekanka-s-klybnikoy"
+    },
+    {
+      "name": "Картофельный пирог с грибами",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/kartofelnyi-pirog-s-gribami"
+    },
+    {
+      "name": "Киш Лорен с лососем",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/kish-loren-s-lososem"
+    },
+    {
+      "name": "Конкильони с томатами",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/konkiloni-s-tomatami"
+    },
+    {
+      "name": "Лазанья",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/lazanja"
+    },
+    {
+      "name": "Лазанья пармиджано",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/lazanja-parmijano"
+    },
+    {
+      "name": "Ленивая ачма",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/lenivaya-achma"
+    },
+    {
+      "name": "Ложный хачапури",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/lojnyi-hachapuri"
+    },
+    {
+      "name": "Мясной пирог",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/myasnoi-pirog"
+    },
+    {
+      "name": "Ньокки",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/niokki"
+    },
+    {
+      "name": "Пирог из земляники",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/pirog-iz-zemlyaniki"
+    },
+    {
+      "name": "Пирог из сгущёнки и ягод",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/pirog-iz-sgushenki-i-yagod"
+    },
+    {
+      "name": "Пирог на День России",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/pirog-na-den-rossii"
+    },
+    {
+      "name": "Пирог с грушей",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/pirog-s-gryshey"
+    },
+    {
+      "name": "Пирог с домашним вареньем",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/pirog-s-domashnim-vareniem"
+    },
+    {
+      "name": "Пирог с курицей, сыром, томатами",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/pirog-s-kyrice-syrom-tomatami"
+    },
+    {
+      "name": "Пирог с мойвой",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/pirog-s-moivoy"
+    },
+    {
+      "name": "Пирожки с мясом",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/pirozhki-s-myasom"
+    },
+    {
+      "name": "Фирменные пирожки с мясом",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/firmennye-pirogki-s-myasom"
+    },
+    {
+      "name": "Простой морковный пирог",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/prostoi-morkovnyi-pirog"
+    },
+    {
+      "name": "Простой пирог с овощами",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/prostoi-pirog-s-ovoshami"
+    },
+    {
+      "name": "Равиоли с сыром и тыквой",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/raviolli-s-syrom-i-hyrmoi"
+    },
+    {
+      "name": "Сырные блинчики",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/syrnye-blinchiki"
+    },
+    {
+      "name": "Фирменная шарлотка",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/firmennaya-sharlotka"
+    },
+    {
+      "name": "Шарлотка фирменная",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/sharlotka-firmennaya"
+    },
+    {
+      "name": "Школьная пицца",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/shkolnaya-pizza"
+    },
+    {
+      "name": "Яблочный пирог с карамельным соусом",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/yablochnyi-pirog-s-karamelnym-soysom"
+    },
+    {
+      "name": "Японские пельмени",
+      "category": "Пироги и выпечка",
+      "url": "https://ivlevchefbooks.ru/yaponskie-pelmeni"
+    },
+    {
+      "name": "Бриош с фондю",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/briosh-s-fondu"
+    },
+    {
+      "name": "Бутерброд с ветчиной и сыром",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/buter-s-vetchinoy-i-syrom"
+    },
+    {
+      "name": "Ватрушки по-ивлевски",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/vatryshki-po-ivlevski"
+    },
+    {
+      "name": "Ватрушки с соусом болоньезе",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/vatrushki-s-soysom-bolonjese"
+    },
+    {
+      "name": "Глазированные сырки",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/glazirovannye-syrki"
+    },
+    {
+      "name": "Конвертики с творогом",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/konvertiki-s-tvorogom"
+    },
+    {
+      "name": "Крок-мадам",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/krok-madam"
+    },
+    {
+      "name": "Круассаны-экспресс",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/express-kryassany"
+    },
+    {
+      "name": "Ленивые ватрушки",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/lenivye-vatrushki"
+    },
+    {
+      "name": "Ленивые сырники",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/lenivye-surniki"
+    },
+    {
+      "name": "Ложные сырники",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/lojnye-surniki"
+    },
+    {
+      "name": "Омлет Пуляр",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/omlet-pylyar"
+    },
+    {
+      "name": "Омлет от шефа",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/omlet-ot-chefa"
+    },
+    {
+      "name": "Омлет с круассаном",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/omlet-s-kryassanom"
+    },
+    {
+      "name": "Омлет с фасолью",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/omlet-s-fasolu"
+    },
+    {
+      "name": "Пашот с голландским соусом",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/pashot-s-gollandskim-soysom"
+    },
+    {
+      "name": "Сосиски в кляре",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/sosiski-v-klyare"
+    },
+    {
+      "name": "Сырники по-ивлевски",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/recept-syrniki-po-ivlevski"
+    },
+    {
+      "name": "Сырники по-ивлевски (вариант 2)",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/syrkini-po-ivlevski"
+    },
+    {
+      "name": "Сэндвич с лососем",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/sandwich-s-lososem"
+    },
+    {
+      "name": "Творожная запеканка",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/tvorognaya-zapekanka"
+    },
+    {
+      "name": "Творожники",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/tvorogniky"
+    },
+    {
+      "name": "Творожный завтрак",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/tvorognyi-zavtrak"
+    },
+    {
+      "name": "Шакшука по-ивлевски",
+      "category": "Завтраки",
+      "url": "https://ivlevchefbooks.ru/shakshuka-po-ivlevski"
+    },
+    {
+      "name": "Баклажан миланезе",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/baklajan-milaneze"
+    },
+    {
+      "name": "Баклажаны тушёные с томатами",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/baklajany-tyshennye-s-tomatami"
+    },
+    {
+      "name": "Бон-бон в картофельной стружке",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/bon-bon-v-kartofelnoy-struzhke"
+    },
+    {
+      "name": "Брамбораки с копчёностями",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/bramboraki-s-kopchenosyami"
+    },
+    {
+      "name": "Домашняя крошка-картошка",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/domashnaya-kroshka-kartoshka"
+    },
+    {
+      "name": "Драники",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/draniki"
+    },
+    {
+      "name": "Драники из кабачков с горбушей",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/draniki-iz-kabachkov-s-gorbyshei"
+    },
+    {
+      "name": "Жареная картошка",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/zharenaya-kartoshka"
+    },
+    {
+      "name": "Жареная картошка по-ивлевски",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/jarenaya-kartoshka-po-ivlevski"
+    },
+    {
+      "name": "Жареная полента",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/jarenaya-polenta"
+    },
+    {
+      "name": "Жюльен с грибами и сыром",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/jylien-s-gribami-i-syrom"
+    },
+    {
+      "name": "Запечённые баклажаны под сырной корочкой",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/zapechennye-baklajany-pod-syrnoi-korochkoi"
+    },
+    {
+      "name": "Запечённые кабачки",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/zapechennye-kabachki"
+    },
+    {
+      "name": "Зелёное ризотто с лососем",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/zelenoe-rizotto-s-lososem"
+    },
+    {
+      "name": "Капустно-картофельные котлеты",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/kapustno-kartofelnye-kotlety"
+    },
+    {
+      "name": "Картофельные вафли",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/kartofelnye-vafli"
+    },
+    {
+      "name": "Картофельные лепёшки с грибным рагу",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/kartofelnye-lepeshki-s-gribnym-ragu"
+    },
+    {
+      "name": "Картофельные трюфельные чипсы",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/kartofeln-trufelnye-chipsy"
+    },
+    {
+      "name": "Лобио по-ивлевски",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/lobio-po-ivlevski"
+    },
+    {
+      "name": "Пак-чой с тофу",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/pak-choi-s-tofy"
+    },
+    {
+      "name": "Печёночные оладьи",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/pechenochnye-oladii"
+    },
+    {
+      "name": "Печёный баклажан",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/pechenyi-baklagan"
+    },
+    {
+      "name": "Рулетики из баклажанов",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/ryletiki-iz-baklajanov"
+    },
+    {
+      "name": "Рулетики с сырной начинкой",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/ryletiki-s-syrnoi-nachinkoy"
+    },
+    {
+      "name": "Удон с тофу",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/ydon-s-tofy"
+    },
+    {
+      "name": "Хрустящие картофельные шарики",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/hrystashie-kartofelnye-shariki"
+    },
+    {
+      "name": "Хрустящий тофу с овощами",
+      "category": "Гарниры и овощи",
+      "url": "https://ivlevchefbooks.ru/hrystashiy-tofy-s-ovoshami"
+    },
+    {
+      "name": "Горячие роллы",
+      "category": "Стритфуд",
+      "url": "https://ivlevchefbooks.ru/goryachie-rolly"
+    },
+    {
+      "name": "Домашняя шаурма",
+      "category": "Стритфуд",
+      "url": "https://ivlevchefbooks.ru/domashnya-shaurma"
+    },
+    {
+      "name": "Кесадилья с сыром",
+      "category": "Стритфуд",
+      "url": "https://ivlevchefbooks.ru/kesadilia-s-syrom"
+    },
+    {
+      "name": "Мини-комплименты",
+      "category": "Стритфуд",
+      "url": "https://ivlevchefbooks.ru/mini-komplimenty"
+    },
+    {
+      "name": "Ролл в лаваше",
+      "category": "Стритфуд",
+      "url": "https://ivlevchefbooks.ru/roll-v-lavashe"
+    },
+    {
+      "name": "Хрустящие козетки с сосисками",
+      "category": "Стритфуд",
+      "url": "https://ivlevchefbooks.ru/hrystashie-kozetki-s-sosiskami"
+    },
+    {
+      "name": "Шаурма с картофелем и шпикачками",
+      "category": "Стритфуд",
+      "url": "https://ivlevchefbooks.ru/shaurma-s-kartofelem-i-shpikachkami"
+    },
+    {
+      "name": "Шаурма с креветками",
+      "category": "Стритфуд",
+      "url": "https://ivlevchefbooks.ru/shaurma-s-krevetkami"
+    },
+    {
+      "name": "Шаурма с сёмгой",
+      "category": "Стритфуд",
+      "url": "https://ivlevchefbooks.ru/shaurma-s-semgoy"
+    },
+    {
+      "name": "Анна Павлова",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/anna-pavlova"
+    },
+    {
+      "name": "Безе с орехами",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/beze-s-orehami"
+    },
+    {
+      "name": "Груша с козинаками",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/grysha-s-kozinakami"
+    },
+    {
+      "name": "Десерт из клубники",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/desert-iz-klubniki"
+    },
+    {
+      "name": "Запеканка с цукатами",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/zapekanka-s-cykatami"
+    },
+    {
+      "name": "Крем-брюле облепиховый",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/krem-brule-oblepihovyi"
+    },
+    {
+      "name": "Крёп Сюзетт",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/krep-susett"
+    },
+    {
+      "name": "Оладьи со сладким соусом",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/oladi-so-sladkim-sousom"
+    },
+    {
+      "name": "Полезный десерт",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/poleznyi-desert"
+    },
+    {
+      "name": "Рафаэлло из бананов",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/rafaello-iz-bananov"
+    },
+    {
+      "name": "Русское тирамису",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/rysskoe-tiramisy"
+    },
+    {
+      "name": "Сладкое печенье",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/sladkoe-pechenie"
+    },
+    {
+      "name": "Сливочно-ванильный пудинг",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/slivochno-vanilnyi-puding"
+    },
+    {
+      "name": "Сырное печенье",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/syrnoe-pechenie"
+    },
+    {
+      "name": "Фондю",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/fondu"
+    },
+    {
+      "name": "Чизкейк Сан-Себастьян",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/chizkeyk-san-sebastyan"
+    },
+    {
+      "name": "Шоколадная колбаса",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/shokoladnaya-kolbasa"
+    },
+    {
+      "name": "Шоколадные брауни",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/shokoladnye-brauni"
+    },
+    {
+      "name": "Шоколадные оладьи",
+      "category": "Десерты",
+      "url": "https://ivlevchefbooks.ru/shokoladnye-oladi"
+    },
+    {
+      "name": "Лайфхак: Работаем с шоколадом",
+      "category": "Лайфхаки",
+      "url": "https://ivlevchefbooks.ru/lifehack-shokolad"
+    },
+    {
+      "name": "Лайфхак: Как выжать больше сока из лимона или лайма",
+      "category": "Лайфхаки",
+      "url": "https://ivlevchefbooks.ru/lifehack-lemon"
+    },
+    {
+      "name": "Лайфхак: Секреты лука",
+      "category": "Лайфхаки",
+      "url": "https://ivlevchefbooks.ru/lifehack-lyk"
+    },
+    {
+      "name": "Лайфхак: Как удалить лишнюю влагу из огурцов",
+      "category": "Лайфхаки",
+      "url": "https://ivlevchefbooks.ru/lifehack-ogyrtsy"
+    },
+    {
+      "name": "Лайфхак: Разделочная доска — советы от Шефа",
+      "category": "Лайфхаки",
+      "url": "https://ivlevchefbooks.ru/lifehack-razdelochnaya-doska"
+    },
+    {
+      "name": "Лайфхак: Авокадо — готовим с лайфхаками",
+      "category": "Лайфхаки",
+      "url": "https://ivlevchefbooks.ru/lifehack-avacado"
+    },
+    {
+      "name": "Лайфхак: Как правильно хранить специи",
+      "category": "Лайфхаки",
+      "url": "https://ivlevchefbooks.ru/lifehack-specii"
+    },
+    {
+      "name": "Лайфхак: Как отрезать тесто, чтобы не прилипало к ножу",
+      "category": "Лайфхаки",
+      "url": "https://ivlevchefbooks.ru/lifehack-testo"
+    },
+    {
+      "name": "Лайфхак: Зелень — советы от Шефа",
+      "category": "Лайфхаки",
+      "url": "https://ivlevchefbooks.ru/lifehack-zelen"
+    }
+  ]
+}
