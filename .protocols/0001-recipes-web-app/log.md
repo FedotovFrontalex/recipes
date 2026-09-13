@@ -68,3 +68,18 @@
   статические проверки вынесены в dev-check; визуальную приёмку делает пользователь
   на шаге 4 после включения Pages (или локально через `npx --yes serve .`).
 - **Commit:** feat(nav): category chips and search [protocol-0001/03]
+
+---
+### Шаг 04 — 2026-09-13
+- **Сделано:** `.github/workflows/deploy.yml` (push в main + ручной запуск; проверка
+  данных `npm run validate` в CI; сборка артефакта через whitelist — `public/` c
+  index.html, css, js, data, README, .nojekyll; деплой `actions/deploy-pages@v4`),
+  пустой `.nojekyll` в корне, `README.md` (описание, демо-URL, структура, инструкция
+  добавления рецептов, локальный запуск, настройка Pages).
+- **Почему так:** whitelist через промежуточную папку `public/` — явно и надёжно:
+  служебные `.memory-bank/`, `.protocols/`, `receps.csv`, `scripts/` не публикуются.
+  Валидация данных в CI гасит битые правки CSV до попадания на прод.
+- **Проблемы и решения:** файловый инструмент стабильно не пишет в `.github/`
+  («parent directory doesn't exist» при существующей папке) — workflow записан через
+  heredoc в терминале с quoted-разделителем, `${{ ... }}` сохранились буквально.
+- **Commit:** ci(deploy): github pages workflow [protocol-0001/04]
