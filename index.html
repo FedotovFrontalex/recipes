@@ -18,7 +18,14 @@
 
   <section class="filters" aria-label="Фильтры">
     <div class="filters__inner">
-      <!-- Шаг 3: чипы категорий и поиск -->
+      <div class="search">
+        <input type="search" id="search" class="search__input"
+               placeholder="Поиск по названию…" aria-label="Поиск по названию рецепта"
+               autocomplete="off">
+        <button type="button" id="search-clear" class="search__clear" hidden
+                aria-label="Очистить поиск">✕</button>
+      </div>
+      <div class="chips" id="chips" role="group" aria-label="Категории"></div>
     </div>
   </section>
 

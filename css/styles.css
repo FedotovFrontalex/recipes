@@ -60,11 +60,88 @@ a {
   font-size: 0.95rem;
 }
 
-/* Фильтры (наполняется на шаге 3) */
+/* Фильтры: липкая панель с поиском и чипами категорий */
+.filters {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+}
+
 .filters__inner {
   max-width: 1200px;
   margin: 0 auto;
   padding: 12px 16px 0;
+}
+
+.search {
+  position: relative;
+  max-width: 480px;
+}
+
+.search__input {
+  width: 100%;
+  min-height: 44px;
+  padding: 10px 44px 10px 16px;
+  font: inherit;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+}
+
+.search__input::placeholder {
+  color: var(--muted);
+}
+
+.search__clear {
+  position: absolute;
+  top: 50%;
+  right: 6px;
+  width: 36px;
+  height: 36px;
+  translate: 0 -50%;
+  border: none;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+/* Лента чипов: на мобиле скроллится горизонтально, без переноса */
+.chips {
+  display: flex;
+  gap: 8px;
+  margin: 0 -16px;
+  padding: 10px 16px 12px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.chips::-webkit-scrollbar {
+  display: none;
+}
+
+.chip {
+  flex: 0 0 auto;
+  min-height: 44px;
+  padding: 8px 16px;
+  font: inherit;
+  font-size: 0.875rem;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.chip[aria-pressed="true"] {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--accent-contrast);
+  font-weight: 600;
 }
 
 /* Счётчик результатов */
@@ -135,14 +212,19 @@ a {
   font-weight: 600;
 }
 
-/* Состояние ошибки загрузки данных */
-.error {
+/* Пустое состояние поиска/категории */
+.empty {
   grid-column: 1 / -1;
-  padding: 32px 16px;
+  padding: 48px 16px;
   text-align: center;
   color: var(--muted);
 }
 
+.empty p {
+  margin: 0 0 12px;
+}
+
+.empty button,
 .error button {
   margin-top: 12px;
   padding: 12px 24px;
@@ -151,6 +233,7 @@ a {
   border-radius: var(--radius);
   background: var(--accent);
   color: var(--accent-contrast);
+  font: inherit;
   font-size: 1rem;
   cursor: pointer;
 }
@@ -175,4 +258,20 @@ a {
   padding: 16px;
   color: var(--muted);
   font-size: 0.85rem;
+}
+
+/* Тёмная тема: только переопределение переменных */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17130f;
+    --surface: #221c16;
+    --text: #f0e9df;
+    --muted: #a89a89;
+    --accent: #e06a4e;
+    --accent-soft: #3a241d;
+    --accent-contrast: #ffffff;
+    --border: #362d24;
+    --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 4px 14px rgb(0 0 0 / 30%);
+    --shadow-hover: 0 2px 4px rgb(0 0 0 / 50%), 0 10px 26px rgb(0 0 0 / 40%);
+  }
 }

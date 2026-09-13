@@ -1,14 +1,14 @@
 # Protocol status: 0001 — Веб-приложение рецептов (GitHub Pages)
 
-- **Current Step:** 3
+- **Current Step:** 4
 - **Status:** In Progress
-- **Last Action Summary:** "Шаг 2 готов: страница рендерит 290 карточек, адаптивная сетка, экран ошибки; dev-check 10/10"
-- **Next Action:** "Приступить к шагу 3 (см. 03-nav.md): чипы категорий, поиск, пустое состояние, тёмная тема"
+- **Last Action Summary:** "Шаг 3 готов: чипы категорий, поиск с debounce и ё/е, пустое состояние, тёмная тема; dev-check 13/13"
+- **Next Action:** "Приступить к шагу 4 (см. 04-deploy.md): GitHub Actions workflow, .nojekyll, README"
 
 ## Git
 - **Branch:** 0001-recipes-web-app (запушена в origin)
 - **PR:** нет (gh CLI отсутствует)
-- **Last commit:** feat(ui): recipe cards with responsive grid [protocol-0001/02]
+- **Last commit:** feat(nav): category chips and search [protocol-0001/03]
 
 ## Paths
 - **PROJECT_ROOT:** C:\Users\Алексей\Desktop\coocking
@@ -16,8 +16,9 @@
 - **Protocol folder:** C:\Users\Алексей\Desktop\coocking\.worktrees\0001-recipes-web-app\.protocols\0001-recipes-web-app
 
 ## Reference Materials (актуальные для текущего шага)
-- В `index.html` заготовлена секция `.filters__inner` — чипы и поиск рендерятся туда
-- Счётчик `#counter` (aria-live) сейчас показывает «Всего рецептов: N» — на шаге 3
-  сменить на «Найдено: N»
-- Тёмная тема: переопределить только переменные `:root` через `prefers-color-scheme`
-- Проверка шага: `node --check js/app.js && node scripts/dev-check.mjs`
+- Репозиторий: git@github.com:FedotovFrontalex/recipes.git; сайт будет на
+  https://fedotovfrontalex.github.io/recipes/
+- Пользователь должен один раз включить: Settings → Pages → Source: GitHub Actions
+- В artifact whitelist: index.html, css/, js/, data/, README.md, .nojekyll
+- Проверка шага: `node --check js/app.js && node scripts/dev-check.mjs` + grep на
+  пути с ведущим `/` (внешние ссылки рецептов не считать)

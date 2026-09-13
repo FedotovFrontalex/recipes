@@ -60,15 +60,18 @@ function check(ok, label) {
 const page = await get('/');
 check(page.status === 200, 'GET / → 200');
 check(page.text.includes('id="grid"'), 'страница содержит контейнер сетки');
+check(page.text.includes('id="search"') && page.text.includes('id="chips"'), 'страница содержит поиск и чипы категорий');
 check(page.text.includes('./css/styles.css') && page.text.includes('./js/app.js'), 'пути ресурсов относительные');
 
 const css = await get('/css/styles.css');
 check(css.status === 200, 'GET /css/styles.css → 200');
 check(css.text.includes('auto-fill, minmax'), 'сетка карточек адаптивная (auto-fill)');
+check(css.text.includes('prefers-color-scheme: dark'), 'тёмная тема объявлена');
 
 const app = await get('/js/app.js');
 check(app.status === 200, 'GET /js/app.js → 200');
 check(app.text.includes("fetch('./data/recipes.json')"), 'app.js грузит данные по относительному пути');
+check(app.text.includes('aria-pressed') && app.text.includes('debounceTimer'), 'фильтры: чипы и debounce на месте');
 
 const data = await get('/data/recipes.json');
 check(data.status === 200, 'GET /data/recipes.json → 200');
