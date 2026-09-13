@@ -83,3 +83,18 @@
   («parent directory doesn't exist» при существующей папке) — workflow записан через
   heredoc в терминале с quoted-разделителем, `${{ ... }}` сохранились буквально.
 - **Commit:** ci(deploy): github pages workflow [protocol-0001/04]
+
+---
+### Шаг 05 — 2026-09-13
+- **Сделано:** документация Memory Bank приведена к SSOT: `docs/product.md` (продукт
+  и сценарии), `docs/architecture.md` (3 контейнера: сайт, генератор данных, деплой;
+  ADR-индекс), `docs/structure.md` (реальная раскладка корня), новый L2-контейнер
+  `docs/app/index.md` (данные/UI/проверки/деплой), корневой `index.md` — секция
+  L2/L3 наполнена ссылкой на контейнер, `learnings/anti-patterns.md` — NP-02 (наивный
+  CSV-split) и NP-03 (абсолютные пути на Pages). Все гейты зелёные.
+- **Почему так:** без дублей — детали контейнера только в `docs/app/index.md`,
+  L1-файлы ссылаются на него; уроки оформлены по формату NP (confidence 0.95,
+  proven — подтверждены реализацией и проверками).
+- **Проблемы и решения:** нет; протокол переведён в Ready for review — дальше
+  `/flow-review 0001` (merge в main, включение Pages, чистка worktree).
+- **Commit:** docs(memory-bank): document recipes app [protocol-0001/05]
